@@ -1,4 +1,4 @@
-# NHS UK Covid vaccination scraper
+# NHS UK Covid Vaccination Scraper
 
 Web scrapper for NHS UK Covid vaccination appointments.
 
