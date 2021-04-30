@@ -1,6 +1,6 @@
 # NHS UK Covid Vaccination Scraper
 
-Web scrapper for NHS UK Covid vaccination appointments.
+Web scraper for NHS UK Covid vaccination appointments.
 
 Features: 
 * Automatically search for appointments every X seconds  
