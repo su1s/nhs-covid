@@ -24,7 +24,7 @@ Edit the peronsal, alert and email settings in the top of the script to required
 
 ## Running
 
-To run in standard mode which will continuously loop and scrap appointments:
+To run in standard mode which will continuously loop and scrape appointments:
 
     python nhs.py 
     
