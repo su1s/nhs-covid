@@ -200,9 +200,9 @@ def parse_results(soup):
         sendemail(result_text)
 
 def writeheader():
-    printLog("\n**************************************************")
-    printLog("Scraping for appointments: "+ datetime.now().strftime("%d/%m/%Y %H:%M:%S"))
-    printLog("**************************************************")
+    printLog("\n*****************************************************")
+    printLog("Scraping for NHS Covid Appointments: "+ datetime.now().strftime("%d/%m/%Y %H:%M:%S"))
+    printLog("*****************************************************")
 
 def printLog(*args, **kwargs):
     print(*args, **kwargs)

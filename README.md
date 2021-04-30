@@ -34,6 +34,12 @@ To run in booking mode which will perform one search and leave the browser visia
 
 ## Screenshots
 
+Standard Mode
+
+![Screenshot](docs/images/screenshot2.png)
+
+Booking Mode 
+
 ![Screenshot](docs/images/screenshot.png)
 
 ## Known Limitations 
