@@ -28,7 +28,7 @@ To run in standard mode which will continuously loop and scrape appointments:
 
     python nhs.py 
     
-To run in booking mode which will perform one search and leave the browser visiable on screen:
+To run in booking mode which will perform one search and leave the browser visible on screen:
     
     python nhs.py --booking
 
