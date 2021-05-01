@@ -237,7 +237,7 @@ def run_loop():
         if booking:
             printLog("Search complete, please see browser window to book your appointment\n")
             input("Press enter to exit application, please note this will close the browser window..")
-            printLog("Thanks for scrapping, bye!")
+            printLog("Thanks for scraping, bye!")
             sys.exit()
         else:
             print("Sleeping for "+ str(sleepdelay)+" seconds ....\n")
